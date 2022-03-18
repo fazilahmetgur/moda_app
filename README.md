@@ -1,4 +1,6 @@
 # moda_shop
+#tiwitter @fazilahmetgur
+#instagram @fazilahmetgur
 
 A new Flutter project.
 
